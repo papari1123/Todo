@@ -14,3 +14,9 @@ opening
 erosion -> dialation
 mathlab
 -> line remove
+
+코랩
+CS224N NLP 
+CS231N 영상처리 
+CS234N 
+CS224W  
