@@ -23,3 +23,5 @@ CS224W  </br>
 
 Pythonic code
 https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html
+
+https://dailyheumsi.tistory.com/221
