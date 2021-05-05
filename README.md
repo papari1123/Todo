@@ -16,7 +16,10 @@ mathlab
 -> line remove
 
 코랩
-CS224N NLP 
-CS231N 영상처리 
-CS234N 
-CS224W  
+CS224N NLP </br>
+CS231N 영상처리 </br>
+CS234N </br>
+CS224W  </br>
+
+Pythonic code
+https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html
